@@ -1,0 +1,24 @@
+.card{
+    margin-top: 50px;
+    margin-right: 10px;
+    padding:16px 10px 16px 15px;
+    width: 220px;
+    height: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
+.name_city{
+    color: #606d85;
+    font-size: 18px;
+    font-weight: 500;
+}
+.card > h1{
+    color:#1e2432;
+    font-size: 50px;
+    margin: 10px 0px 0px 0px;
+}
+.weather{
+    color: #606d85;
+    text-transform: uppercase;
+    font-weight: 400;
+}
